@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, C! it's my first programm\n");
+    printf("Hello from branch!\n");
     return 0;
 }
